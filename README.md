@@ -16,7 +16,9 @@ Packet Capture Analysis:
 <br>
 Analyzing a packet capture from a network provided to me. I filtered it to HTTP traffic to look at the contents of the HTTP packet.
 <br>
+<p align="center">
 <img width="540" alt="image" src="https://github.com/Macky-Y/forage-anz/assets/63437122/26a8aa79-0ab2-4921-9ac4-29707fff855d">
+</p>
 <br>
 Sub-task 1: 
 
