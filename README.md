@@ -29,9 +29,10 @@ To look at the images the user accessed named anz-logo.jpg and bank-card.jpg, I 
 <br>
 <p align="center">
 <img width="356" alt="image" src="https://github.com/Macky-Y/forage-anz/assets/63437122/2b8f0d48-cb57-457e-a6bb-1909939721d3">
-</p>
 <br>
 You can also download this script and the file name is script.py.
+</p>
+<br>
 <br>
 <p align="center">
 This is how the program works:
