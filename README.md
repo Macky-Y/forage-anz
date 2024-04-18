@@ -41,16 +41,16 @@ This is how the program works:
 </p>
 <br>
 <br>
-And voila here is the extracted hex data:
-<br>
 <p align="center">
 <img width="245" alt="image" src="https://github.com/Macky-Y/forage-anz/assets/63437122/04d59143-5aff-47af-8764-6419dae9ee58">
+<br>
+And voila here is the extracted hex data:
 </p>
 <br>
-I copied and pasted it to my hex editor and saved it as JPG file format to view the data and this is what I found:
-<br>
 <p align="center">
+I copied and pasted it to my hex editor and saved it as JPG file format to view the data and this is what I found:
 anz_logo.jpg
+<br>
 <br>
 <img src="./anz/anz_logo.jpg">
 <br>
