@@ -59,21 +59,20 @@ bank-card.jpg
 <img src="./anz/bank-card.jpg">
 </p>
 <br>
-<p align="center">
 Sub-task 2: 
 
 - The network traffic for the images "ANZ1.jpg" and "ANZ2.jpg" is more than it appears.
 - Extract the images, include them and mention what is different about them in your report.
-
+<p align="center">
 The same method applies when extracting images, after performing the previous steps, these are the images I found:
 <br>
 ANZ1.jpg
 <br>
-<img src="./anz/ANZ1.jpg">
+<img src="./anz/anz1.jpg">
 <br>
 ANZ2.jpg
 <br>
-<img src="./anz/ANZ2.jpg">
+<img src="./anz/anz2.jpg">
 
 </p>
 </p>
