@@ -6,7 +6,6 @@
 <br>
 <p>
 <b>Technologies Used: </b>
-<br>
 - Wireshark
 - Hex Editor (Hex Fiend for macOS, you can use HxD if you are using Windows)
 - Visual Studio Code
