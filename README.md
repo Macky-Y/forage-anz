@@ -38,6 +38,11 @@ This is how the program works:
 And voila here is the extracted hex data:
 <br>
 <img width="245" alt="image" src="https://github.com/Macky-Y/forage-anz/assets/63437122/04d59143-5aff-47af-8764-6419dae9ee58">
-
+<br>
+I copied and pasted it to my hex editor and saved it as JPG file format to view the data and this is what I found:
+<br>
+<img src="./anz/anz_logo.jpg">
+<br>
+<img src="bank-card.jpg">
 
 </p>
