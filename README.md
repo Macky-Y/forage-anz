@@ -66,11 +66,14 @@ Sub-task 2:
 <p align="center">
 The same method applies when extracting images, after performing the previous steps, these are the images I found:
 <br>
+<br>
 ANZ1.jpg
 <br>
 <img src="./anz/anz1.jpg" width="540">
 <br>
+<br>
 ANZ2.jpg
+<br>
 <br>
 <img src="./anz/anz2.jpg" width="540">
 
