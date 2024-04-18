@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="">
+  <img src="./anz/anz_logo.jpg">
 </p>
