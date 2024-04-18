@@ -68,11 +68,11 @@ The same method applies when extracting images, after performing the previous st
 <br>
 ANZ1.jpg
 <br>
-<img src="./anz/anz1.jpg">
+<img src="./anz/anz1.jpg" width="540">
 <br>
 ANZ2.jpg
 <br>
-<img src="./anz/anz2.jpg">
+<img src="./anz/anz2.jpg" width="540">
 
 </p>
 </p>
