@@ -41,8 +41,10 @@ And voila here is the extracted hex data:
 <br>
 I copied and pasted it to my hex editor and saved it as JPG file format to view the data and this is what I found:
 <br>
+anz_logo.jpg
 <img src="./anz/anz_logo.jpg">
 <br>
+bank-card.jpg
 <img src="./anz/bank-card.jpg">
 
 </p>
