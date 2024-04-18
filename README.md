@@ -6,10 +6,10 @@
 
 <br>
 <b>Technologies Used: </b>
-  - [Wireshark]
-  - [Hex Editor (Hex Fiend for macOS, you can use HxD if you are using Windows)]
-  - [Visual Studio Code]
-  - [Python]
+- [Wireshark]
+- [Hex Editor (Hex Fiend for macOS, you can use HxD if you are using Windows)]
+- [Visual Studio Code]
+- [Python]
 <br>
 <p>
   Packet Capture Analysis:
