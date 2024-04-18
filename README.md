@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">Forage Virtual Experience Write-up - ANZ</h1>
-
 <br>
 <b>Technologies Used: </b>
+<br>
 - Wireshark
 - Hex Editor (Hex Fiend for macOS, you can use HxD if you are using Windows)
 - Visual Studio Code
