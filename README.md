@@ -193,7 +193,10 @@ Lastly, I went back to the file and put “secure” as the password and yes it 
 </p>
 </p>
 
-
+<br>
+<br>
+<br>
+<br>
 <p align="center"> 
-  I hope you found value in this write-up. Thank you for dedicating your time to reading it and joining me on my cybersecurity journey. Thank you so much!
+  I hope you found value in this write-up. Thank you for dedicating your time to reading it and joining me on my cybersecurity journey!
 </p>
