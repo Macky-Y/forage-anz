@@ -5,7 +5,9 @@
 <h1 align="center">Forage Virtual Experience Write-up - ANZ</h1>
 
 <p>
-  Technologies Used: Wireshark, Hex Editor (Hex Fiend for macOS, you can use HxD if you are using Windows), Visual Studio Code, Python
+  Technologies Used: 
+  <br>
+  Wireshark, Hex Editor (Hex Fiend for macOS, you can use HxD if you are using Windows), Visual Studio Code, Python
   <br>
   Packet Capture Analysis:
   <br>
