@@ -42,9 +42,9 @@ This is how the program works:
 <br>
 <br>
 <p align="center">
-<img width="245" alt="image" src="https://github.com/Macky-Y/forage-anz/assets/63437122/04d59143-5aff-47af-8764-6419dae9ee58">
-<br>
 And voila here is the extracted hex data:
+<br>
+<img width="245" alt="image" src="https://github.com/Macky-Y/forage-anz/assets/63437122/04d59143-5aff-47af-8764-6419dae9ee58">
 </p>
 <br>
 <p align="center">
