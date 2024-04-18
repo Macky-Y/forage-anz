@@ -36,12 +36,16 @@ You can also download this script and the file name is script.py.
 <br>
 This is how the program works:
 <br>
+<p align="center">
 <img width="540" alt="image" src="https://github.com/Macky-Y/forage-anz/assets/63437122/998519ce-e0c1-4ada-9b72-31d18d5e67af">
+</p>
 <br>
 <br>
 And voila here is the extracted hex data:
 <br>
+<p align="center">
 <img width="245" alt="image" src="https://github.com/Macky-Y/forage-anz/assets/63437122/04d59143-5aff-47af-8764-6419dae9ee58">
+</p>
 <br>
 I copied and pasted it to my hex editor and saved it as JPG file format to view the data and this is what I found:
 <br>
