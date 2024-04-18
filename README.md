@@ -43,6 +43,6 @@ I copied and pasted it to my hex editor and saved it as JPG file format to view 
 <br>
 <img src="./anz/anz_logo.jpg">
 <br>
-<img src="bank-card.jpg">
+<img src="./anz/bank-card.jpg">
 
 </p>
